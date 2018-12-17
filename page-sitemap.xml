@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>https://yitengyu.github.io/about/</loc>
+        <lastmod>2018-12-16T08:26:38.049Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://yitengyu.github.io/archive/</loc>
         <lastmod>2018-12-16T06:28:35.786Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,13 +23,6 @@
     <url>
         <loc>https://yitengyu.github.io/tags/</loc>
         <lastmod>2018-12-16T06:21:57.358Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://yitengyu.github.io/about/</loc>
-        <lastmod>2018-12-16T06:21:57.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>

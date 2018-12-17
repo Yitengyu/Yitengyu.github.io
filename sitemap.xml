@@ -2,13 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
+        <loc>https://yitengyu.github.io/post-sitemap.xml</loc>
+        <lastmod>2018-12-16T09:52:50.693Z</lastmod>
+    </sitemap>
+
+    <sitemap>
         <loc>https://yitengyu.github.io/page-sitemap.xml</loc>
-        <lastmod>2018-12-16T06:28:35.786Z</lastmod>
+        <lastmod>2018-12-16T08:26:38.049Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://yitengyu.github.io/tag-sitemap.xml</loc>
-        
+        <lastmod>2018-12-16T09:52:50.693Z</lastmod>
     </sitemap>
 
 </sitemapindex>
